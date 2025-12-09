@@ -1,8 +1,14 @@
 # C Project – Bus Seat Reservation System
 
 ### *By:* Shreyansh Negi  
+          Agastya Lakhera
+          Sarthak singh
+          Aanjanay Vijay
+          
 ### *SAP ID:* 590022469
-
+              590025520
+              590022458
+              590026068
 ---
 
 ## 📌 Project Overview
